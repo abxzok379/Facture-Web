@@ -7,7 +7,6 @@ function maFonction(){
 var cell, ligne, boutton;
 // Récupère l'id de la table qui sera modifié
 var tableau = document.getElementById("tableau01");
-var nbLignes = "penis";
 boutton = document.createElement("input");
 boutton.type = "button";
 boutton.className = "boutton";
